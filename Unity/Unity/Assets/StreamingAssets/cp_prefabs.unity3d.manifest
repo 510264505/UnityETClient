@@ -1,0 +1,86 @@
+ManifestFileVersion: 0
+CRC: 333463472
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 409551e531f1df3dcb44e33b0334a13d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d60aaecd65fc1d52d482eee2be4978d1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -2095666955, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 575553740, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 2109663825, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 502d8cafd6a5a0447ab1db9a24cdcb10, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/CP/Prefabs/GameSelectBtn.prefab
+- Assets/Bundles/CP/Prefabs/BallHistory.prefab
+- Assets/Bundles/CP/Prefabs/MessageBox1.prefab
+- Assets/Bundles/CP/Prefabs/BetsOptionPanel.prefab
+- Assets/Bundles/CP/Prefabs/DataInfo.prefab
+- Assets/Bundles/CP/Prefabs/ConditionBtn.prefab
+- Assets/Bundles/CP/Prefabs/RacingCarHistory.prefab
+- Assets/Bundles/CP/Prefabs/MessageBox0.prefab
+- Assets/Bundles/CP/Prefabs/HelpDecPanel.prefab
+- Assets/Bundles/CP/Prefabs/OnBetsConfig.prefab
+- Assets/Bundles/CP/Prefabs/GamePanel.prefab
+- Assets/Bundles/CP/Prefabs/BetsToggle.prefab
+- Assets/Bundles/CP/Prefabs/UIMessageCanvas.prefab
+- Assets/Bundles/CP/Prefabs/UIGameCanvas.prefab
+- Assets/Bundles/CP/Prefabs/UniteBetsOptionPanel.prefab
+- Assets/Bundles/CP/Prefabs/UILoginCanvas.prefab
+- Assets/Bundles/CP/Prefabs/InputBetsInfo.prefab
+- Assets/Bundles/CP/Prefabs/HistoryRecord.prefab
+Dependencies:
+- F:/UnityProjectTest/UnityCPHot/UnityCPHot/../Release/Android/StreamingAssets/cp_textrue2d.unity3d

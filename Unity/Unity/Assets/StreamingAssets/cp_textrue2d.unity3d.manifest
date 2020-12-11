@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3101381684
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a591a06f4e8dbce817c08f07eb7bb1fd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/CP/Textrue2D/SSCJSC.png
+- Assets/Bundles/CP/Textrue2D/Atlas1.png
+- Assets/Bundles/CP/Textrue2D/SGFT.png
+- Assets/Bundles/CP/Textrue2D/PK10JSC.png
+- Assets/Bundles/CP/Textrue2D/Number.png
+- Assets/Bundles/CP/Textrue2D/BJPK10.png
+- Assets/Bundles/CP/Textrue2D/XYFT.png
+- Assets/Bundles/CP/Textrue2D/GameBG.png
+- Assets/Bundles/CP/Textrue2D/Login_Box.png
+- Assets/Bundles/CP/Textrue2D/Atlas.png
+- Assets/Bundles/CP/Textrue2D/LUCKYSB.png
+- Assets/Bundles/CP/Textrue2D/LoginBG.png
+Dependencies: []
